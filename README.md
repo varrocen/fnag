@@ -1,4 +1,4 @@
-# Mower
+# FNAG
 
 Demo project for FNAG.
 
